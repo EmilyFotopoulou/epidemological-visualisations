@@ -8,16 +8,13 @@ Answering Who, When, Where and What
    * Clinical case distribution and clinical outcome
 
 2. When:
+   * Temporal singal of clinical cases: Time series
    
-   2.1. Temporal singal of clinical cases: Time series
-   
-3. When:
-   
-  3.1. Spatial distribution of clinical cases
+4. When:
+   * Spatial distribution of clinical cases
   
 4. What:
-   
-   4.1.  Food sampling sources
+   * Food sampling sources
 
 >df=x
 >>df2=x2
