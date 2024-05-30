@@ -4,10 +4,8 @@ something subtitle
 Answering Who, When, Where and What
 
 1. Who:
-   
-   1.1. Clinical case distribution across ages
-
-   1.2. Clinical case distribution and clinical outcome
+   * Clinical case distribution across ages
+   * Clinical case distribution and clinical outcome
 
 2. When:
    
