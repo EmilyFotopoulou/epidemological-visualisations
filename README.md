@@ -18,10 +18,10 @@ something subtitle
 
 # Associated Publications
 The script presented here has been used in the methodology underlying the results of these two publications:
+
 [Genomic epidemiology of the clinically dominant clonal complex 1 in the Listeria monocytogenes population in the UK](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001155)
 
 and
-
 
 
 [Listeria monocytogenes: the silent assassin](https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001800)
