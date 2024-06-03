@@ -19,8 +19,11 @@ something subtitle
 # Associated Publications
 The script presented here has been used in the methodology underlying the results of these two publications:
 https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001155
+
 and
+
 https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001800
+
 Listeria monocytogenes: the silent assassin
 
 >df=x
