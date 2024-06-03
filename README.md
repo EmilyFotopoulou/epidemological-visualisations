@@ -24,7 +24,7 @@ and
 
 
 
-[Listeria monocytogenes: the silent assassin] (https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001800)
+[Listeria monocytogenes: the silent assassin](https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001800)
 
 >df=x
 >>df2=x2
