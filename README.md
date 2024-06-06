@@ -25,7 +25,9 @@ The script presented here has been used in the methodology underlying the result
 [![DOI](https://doi.org/10.1099/mgen.0.001155/mgen.0.001155.svg)](https://doi.org/10.1099/mgen.0.001155)
 
 
-https://zenodo.org/badge/DOI/10.5281/zenodo.5013683.svg)](https://doi.org/10.5281/zenodo.5013683
+[![DOI](https://zenodo.org/badge/DOI/10.5281/mgen.0.001155.svg)](https://doi.org/10.1099/mgen.0.001155)
+
+
 and
 
 
