@@ -21,6 +21,8 @@ The script presented here has been used in the methodology underlying the result
 
 [Genomic epidemiology of the clinically dominant clonal complex 1 in the Listeria monocytogenes population in the UK](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001155)
 
+
+[![DOI](https://doi.org/10.1099/mgen.0.001155/mgen.0.001155.svg)](https://doi.org/10.1099/mgen.0.001155)
 and
 
 
