@@ -10,7 +10,7 @@ something subtitle
 2. When:
    * Temporal singal of clinical cases: Time series
    
-4. When:
+4. Where:
    * Spatial distribution of clinical cases
   
 4. What:
