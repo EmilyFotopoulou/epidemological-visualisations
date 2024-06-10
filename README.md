@@ -2,7 +2,8 @@
 Analysis that permits visualisation of the patterns, causes and effects of diseases. The code presented here has been applied to answer questions on *Listeria monocytogenes* 
 
 
-# Answering the 5 Ws of Epidemiology: Who, What, When, Where and Why/How
+# Answering the 5 Ws of Epidemiology: 
+# Who, What, When, Where and Why/How
 
 ## 1. Who - The patients
    * Clinical case distribution across ages
