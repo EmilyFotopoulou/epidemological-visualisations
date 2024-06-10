@@ -1,7 +1,3 @@
-# epidemological-visualisations
-Analysis that permits visualisation of the patterns, causes and effects of diseases. The code presented here has been applied to answer questions on *Listeria monocytogenes* however the same approach can be applied to investigate other pathogens.
-
-
 # Answering the 5 Ws of Epidemiology: 
 ## Who, What, When, Where and Why/How
 
@@ -19,6 +15,12 @@ Analysis that permits visualisation of the patterns, causes and effects of disea
 
 ### 5. Why & How - Transmission paths
   * Identifying transmission food vehicles (Food sampling sources)
+
+    
+
+# epidemological-visualisations
+Analysis that permits visualisation of the patterns, causes and effects of diseases. The code presented here has been applied to answer questions on *Listeria monocytogenes* however the same approach can be applied to investigate other pathogens.
+
 
 # Associated Publications
 The script presented here has been used in the methodology underlying the results of these two publications:
