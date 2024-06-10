@@ -17,7 +17,7 @@ Analysis that permits visualisation of the patterns, causes and effects of disea
 ### 4. Where - Geographical location
    * Spatial distribution of clinical cases
 
-### 5. Why & How - Transmision paths
+### 5. Why & How - Transmission paths
   * Identifying transmission food vehicles (Food sampling sources)
 
 # Associated Publications
