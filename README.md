@@ -1,20 +1,24 @@
 # epidemological-visualisations
-something subtitle
+Analysis that permits visualisation of the patterns, causes and effects of diseases. The code presented here has been applied to answer questions on *Listeria monocytogenes* 
 
-# Answering Who, When, Where and What
 
-1. Who:
+# Answering the 5 Ws of Epidemiology: Who, What, When, Where and Why/How
+
+## 1. Who - The patients
    * Clinical case distribution across ages
    * Clinical case distribution and clinical outcome
 
-2. When:
+## 2. What - The clinical manifestations
    * Temporal singal of clinical cases: Time series
    
-4. Where:
+## 3. When - Time of the event
    * Spatial distribution of clinical cases
   
-4. What:
+## 4. Where - Geographical location
    * Food sampling sources
+
+## 5. Why & How - Transmision paths
+  * Something
 
 # Associated Publications
 The script presented here has been used in the methodology underlying the results of these two publications:
