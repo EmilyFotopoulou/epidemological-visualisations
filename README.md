@@ -3,22 +3,22 @@ Analysis that permits visualisation of the patterns, causes and effects of disea
 
 
 # Answering the 5 Ws of Epidemiology: 
-# Who, What, When, Where and Why/How
+## Who, What, When, Where and Why/How
 
-## 1. Who - The patients
+### 1. Who - The patients
    * Clinical case distribution across ages
    * Clinical case distribution and clinical outcome
 
-## 2. What - The clinical manifestations
+### 2. What - The clinical manifestations
    * Temporal singal of clinical cases: Time series
    
-## 3. When - Time of the event
+### 3. When - Time of the event
    * Spatial distribution of clinical cases
   
-## 4. Where - Geographical location
+### 4. Where - Geographical location
    * Food sampling sources
 
-## 5. Why & How - Transmision paths
+### 5. Why & How - Transmision paths
   * Something
 
 # Associated Publications
