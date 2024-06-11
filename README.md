@@ -13,7 +13,7 @@
 ### 4. Where - Geographical location
    * Spatial distribution of clinical cases
 
-### 5. Why & How - Transmission paths
+### 5. Why/How - Transmission paths
   * Identifying transmission food vehicles (Food sampling sources)
 
     
