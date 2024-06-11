@@ -39,8 +39,4 @@ and
 
 [![DOI](https://zenodo.org/badge/DOI/0.1099/mgen.0.001155.svg)](https://doi.org/10.1099/jmm.0.001800)
 
->df=x
->>df2=x2
-```
-something something dont include
-```
+
