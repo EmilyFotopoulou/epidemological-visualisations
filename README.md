@@ -23,8 +23,10 @@ Analysis that permits visualisation of the patterns, causes and effects of disea
 
 
 # Imput data structure
-![Github_Foodtable](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/5339db23-44bf-49c4-adb6-620d6799d828)
 ![Github_humantable](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/8e41d4d9-ea67-4dd8-996b-ffa454fae879)
+
+
+![Github_Foodtable](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/5339db23-44bf-49c4-adb6-620d6799d828)
 
 
 # Associated Publications
