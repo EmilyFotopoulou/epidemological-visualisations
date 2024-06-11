@@ -22,6 +22,10 @@
 Analysis that permits visualisation of the patterns, causes and effects of diseases. The code presented here has been applied to answer questions on *Listeria monocytogenes* however the same approach can be applied to investigate other pathogens.
 
 
+# Imput data structure
+![WhatsApp Image 2024-04-05 at 3 01 42 PM](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/8804aaaf-53a2-4c5d-b449-68f9ff66cb41)
+
+
 # Associated Publications
 The script presented here has been used in the methodology underlying the results of these two publications:
 
