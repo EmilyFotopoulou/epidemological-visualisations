@@ -22,7 +22,7 @@
 Analysis that permits visualisation of the patterns, causes and effects of diseases. The code presented here has been applied to answer questions on *Listeria monocytogenes* however the same approach can be applied to investigate other pathogens.
 
 
-# Imput data structure
+# Input data structure
 ![Github_humantable](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/8e41d4d9-ea67-4dd8-996b-ffa454fae879)
 
 
