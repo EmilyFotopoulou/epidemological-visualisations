@@ -23,7 +23,7 @@ Analysis that permits visualisation of the patterns, causes and effects of disea
 
 
 # Input data structure
-![Github_humantable](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/8e41d4d9-ea67-4dd8-996b-ffa454fae879)
+![Github_clinical_datatable](https://github.com/user-attachments/assets/89a6ce1e-cb7c-4100-aa36-6df4a7d93847)
 
 
 ![Github_Foodtable](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/5339db23-44bf-49c4-adb6-620d6799d828)
@@ -33,6 +33,7 @@ Analysis that permits visualisation of the patterns, causes and effects of disea
 The script presented here has been used in the methodology underlying the results of these two publications:
 
 [Genomic epidemiology of the clinically dominant clonal complex 1 in the Listeria monocytogenes population in the UK](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001155)
+![Uploading Github_clinical_datatable.png…]()
 
 
 
