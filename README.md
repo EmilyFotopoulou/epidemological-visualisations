@@ -26,7 +26,8 @@ Analysis that permits visualisation of the patterns, causes and effects of disea
 The analysis can work with any form of genomic classification and cluster intedification methods, however in this instance SNP-calling (column "SNP" in the human data file) was utilised and clusters were identified at a 5 SNP single linlage distance level (column "Cluster Level" in the human data file). 
 
 
-![Github_clinical_datatable](https://github.com/user-attachments/assets/89a6ce1e-cb7c-4100-aa36-6df4a7d93847)
+![Github_clinical_datatable](https://github.com/user-attachments/assets/70c68cba-d327-44d3-90f7-044181049627)
+
 
 
 ![Github_Foodtable](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/5339db23-44bf-49c4-adb6-620d6799d828)
