@@ -19,6 +19,9 @@
     
 
 # epidemological-visualisations
+
+"Receipt Date" is the sequence collection date.
+
 Analysis that permits visualisation of the patterns, causes and effects of diseases. The code presented here has been applied to answer questions on *Listeria monocytogenes* however the same approach can be applied to investigate other pathogens.
 
 
