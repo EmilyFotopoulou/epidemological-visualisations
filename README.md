@@ -33,6 +33,7 @@ The analysis can work with any form of genomic classification and cluster intedi
 
 
 ![Github_food_datatable](https://github.com/user-attachments/assets/917ecc9f-e8fb-4e7d-95ef-3a873c1b3d16)
+Examples of the data structure and data types are displayed within the jupyter notebook repository ("Epi_visualisations_Github.ipynb")
 
 
 
