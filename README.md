@@ -29,8 +29,8 @@ The analysis can work with any form of genomic classification and cluster intedi
 ![Github_clinical_datatable](https://github.com/user-attachments/assets/70c68cba-d327-44d3-90f7-044181049627)
 
 
+![Github_food_datatable](https://github.com/user-attachments/assets/4f185e8c-321a-425e-bd14-a3584f5bd7aa)
 
-![Github_Foodtable](https://github.com/EmilyFotopoulou/epidemological-visualisations/assets/170447213/5339db23-44bf-49c4-adb6-620d6799d828)
 
 
 # Associated Publications
