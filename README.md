@@ -41,8 +41,6 @@ The analysis can work with any form of genomic classification and cluster intedi
 The script presented here has been used in the methodology underlying the results of these two publications:
 
 [Genomic epidemiology of the clinically dominant clonal complex 1 in the Listeria monocytogenes population in the UK](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001155)
-![Uploading Github_clinical_datatable.png…]()
-
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/mgen.0.001155.svg)](https://doi.org/10.1099/mgen.0.001155)
